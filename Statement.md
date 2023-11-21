@@ -1,3 +1,4 @@
+##Codewars Exercise
 # Count_Sel
 We need a function count_sel() that receives an array or list of integers (positive and negative) and may give us the following information in the order and structure presented bellow:
 
